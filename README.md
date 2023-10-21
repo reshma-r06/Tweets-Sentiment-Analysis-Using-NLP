@@ -44,10 +44,10 @@ Lemmatization reduces words to their base word, reducing the inflected words pro
 The process of converting text into numerical representation.The popular methods are Binary term Frequency, Bag of words term frequency, L1 Normalized term frequency, L2 normalized TF-IDF, Word2Vec
 
 # Sources:
-Applied Text Mining and Sentiment Analysis with Python Course by Teacher Benjamin Termonia - This is my first step where I get introduced to NLP and made me to do this case study project.
-And here are the major websites where the detailed and easy to understand concepts are explained and I referred when I was having many confusions while doing this project.
+Applied Text Mining and Sentiment Analysis with Python Course by Teacher Benjamin Termonia - This is my first step where I was introduced to NLP and made me to do this case study project.
+And here are the major websites where the detailed and easy to understand concepts are explained and I referred them when I was having many confusions while doing this project.
 https://towardsdatascience.com/text-normalization-for-natural-language-processing-nlp-70a314bfa646
 https://www.datacamp.com/tutorial/wordcloud-python
-https://www.w3schools.com/python/
+https://www.w3schools.com/python/ There are still other good websites on the internet which will provide good explanation on these concepts and I have mentioned only the websites which I referred more number of times when serching for different concepts.
 
 
