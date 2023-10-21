@@ -1,6 +1,6 @@
 # Tweets-Sentiment-Analysis-Using-NLP
 
-Twitter is one of the largest social media platform, where it is estimated that 6000 tweets per second are tweeted by people in the whole world related to different topics. The aim of this case study is to identify the emotions of the tweet, whether they are positive or negative. A dataset containing a large collection of tweets is taken and it uses natural language processing and machine learning algorithms to classify tweets automatically as positive, negative.
+Twitter is one of the largest social media platform, where it is estimated that 6000 tweets per second are tweeted by people from different corner of the world and it is related to various different topics. The aim of this case study is to identify the emotions of the tweet, whether they are positive or negative. A dataset containing a large collection of tweets is taken and it uses natural language processing and machine learning algorithms to classify tweets automatically as positive, negative.
 
 I learned many new concepts while doing this project and in this readme section, I will highlight the major concepts used here for a quick overview.
 
