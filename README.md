@@ -48,6 +48,6 @@ Applied Text Mining and Sentiment Analysis with Python Course by Teacher Benjami
 And here are the major websites where the detailed and easy to understand concepts are explained and I referred them when I was having many confusions while doing this project.
 https://towardsdatascience.com/text-normalization-for-natural-language-processing-nlp-70a314bfa646
 https://www.datacamp.com/tutorial/wordcloud-python
-https://www.w3schools.com/python/ There are still other good websites on the internet which will provide good explanation on these concepts and I have mentioned only the websites which I referred more number of times when serching for different concepts.
+https://www.w3schools.com/python/ There are also many other good websites on the internet which provide good explanation on these concepts and I have mentioned only the websites I referred more number of times while serching for different concepts to do this case study project.
 
 
